@@ -3,3 +3,7 @@ should do it. This means that the user can access the computer through input dev
 
 Another thing that an operating system allows for a user is to have access to inquatifiable amounts of data and creation. Meaning you can find and create all sorts of data that
 then can be saved for later use. This includes access to software that lets you create files and access them.
+
+Also operating sysytems with access to the internet can allow developers to update them. This means that when developers find ways to improve upon the operating system they can 
+release them to those that need access. With the edition to being able to add remove and improve upon them developers can make the operating system environment safer and more 
+friendly to all users.
