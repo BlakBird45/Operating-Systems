@@ -1,1 +1,5 @@
-The main thing that an operating system does is allows all the parts of a computer to talk to one another. This is done by telling what things should be doing what and when they should do it. This means that the user can access the computer through input devices and the computer can provide output as needed.
+The main thing that an operating system does is allows all the parts of a computer to talk to one another. This is done by telling what things should be doing what and when they
+should do it. This means that the user can access the computer through input devices and the computer can provide output as needed.
+
+Another thing that an operating system allows for a user is to have access to inquatifiable amounts of data and creation. Meaning you can find and create all sorts of data that
+then can be saved for later use. This includes access to software that lets you create files and access them.
